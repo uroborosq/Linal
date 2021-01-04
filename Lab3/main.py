@@ -42,11 +42,3 @@ for i in range(num_of_mirrors):
         for k in range(3):
             mirrors[i][j].append(data[i + 8][k])
 
-print(a)
-print(b)
-print(c)
-print(enter_vector)
-print(enter_point)
-print(intensity)
-print(num_of_mirrors)
-print(mirrors)
